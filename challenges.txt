@@ -1,0 +1,9 @@
+I learned C++  at University and learned Python at edX
+I also want to know another language and I thought Ruby would be a good choice
+It looks like Ruby is a bit different than other languages and will be a totally new world for me.
+It will struggle me a little bit but it's not a problem, I'm here for learning new things :)
+There are 3 seperate nanodegrees about Ruby so I guess it should be a hard task to master on Ruby and it will take a long time as well.
+I hope I can finish all three Ruby nanodegrees
+So my questions are:
+*Considered with Python, is Ruby harder to learn?
+*I think Ruby became world-wide popular 10 years ago. Are there enough resources and documentation provided in English?
